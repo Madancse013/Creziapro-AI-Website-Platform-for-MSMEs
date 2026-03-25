@@ -124,12 +124,40 @@ User → Frontend (React) → API Layer → AI Engine → Response
 
 ## 🎯 My Role
 
-* Built full frontend architecture
-* Designed AI chatbot flow
-* Implemented service recommendation system
-* Developed pricing logic
-* Integrated backend APIs
-* Optimized performance & UI
+I built the entire platform end-to-end, covering frontend, backend, AI logic, and system architecture.
+
+### 💻 Frontend Engineering
+- Designed and developed a fully responsive UI using React, TypeScript, and Tailwind CSS  
+- Implemented modern UI/UX with smooth animations (Framer Motion)  
+- Built dynamic pages: Home, Services, Portfolio, Blog, and Contact  
+- Integrated real-time chatbot widget for user interaction  
+
+### ⚙️ Backend Development
+- Built scalable backend APIs using Hono  
+- Designed modular architecture for service handling and pricing logic  
+- Implemented API flows for chatbot communication and data processing  
+
+### 🤖 AI & Business Logic
+- Designed AI chatbot interaction flow for understanding user requirements  
+- Built service recommendation system based on user inputs  
+- Developed dynamic pricing engine for instant cost estimation  
+
+### 💳 Payment Integration
+- Integrated Razorpay for end-to-end payment flow  
+- Implemented order creation, verification, and secure transaction handling  
+- Handled payment success/failure flows and backend validation  
+
+### 🧑‍💼 Admin Panel
+- Built admin dashboard for managing:
+  - services  
+  - pricing  
+  - content (portfolio/blog)  
+- Enabled easy updates without developer dependency  
+
+### 🚀 Deployment & Performance
+- Deployed using modern serverless architecture  
+- Optimized performance and responsiveness  
+- Ensured secure API handling and production readiness  
 
 ---
 
