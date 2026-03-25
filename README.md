@@ -1,4 +1,4 @@
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/0e63bfed-8c36-427f-9399-b0c030a9c6ea" /># 🚀 Creziapro — AI Website Platform for MSMEs
+# 🚀 Creziapro — AI Website Platform for MSMEs
 
 An AI-powered platform that helps MSMEs generate leads, recommend services, and provide instant pricing using an intelligent chatbot.
 
@@ -108,17 +108,6 @@ User → Frontend (React) → API Layer → AI Engine → Response
 * Frontend handles UI & interactions
 * Backend processes logic & requests
 * AI system handles recommendations & pricing
-
----
-
-## 📸 Screenshots
-
-
-
-* Homepage
-* Chatbot interaction
-* Services page
-* Pricing flow
 
 ---
 
