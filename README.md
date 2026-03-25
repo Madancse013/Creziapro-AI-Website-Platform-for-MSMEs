@@ -7,7 +7,6 @@ An AI-powered platform that helps MSMEs generate leads, recommend services, and 
 ## 🌐 Live Demo
 
 👉 https://creziapro.com
-*(Replace with your actual deployed URL if different)*
 
 ---
 
